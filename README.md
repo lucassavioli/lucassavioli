@@ -5,9 +5,6 @@ I'm a dedicated engineer, committed to delivering the highest level of contribut
 technical and social skills combined with the ability to adapt to different technologies and scenarios, and a continuous desire to stay current with the latest
 technologies to deliver scalable, durable, and high-quality software.
 
-# Location
-Nova Friburgo, Rio de Janeiro, Brazil
-
 # Education
 BS in Computer Engineering - [Rio de Janeiro State University](https://www.uerj.br/)  
 
