@@ -1,5 +1,26 @@
-# Glad to see you here!
+![linkedin-cover-blue-2023](https://github.com/lucassavioli/lucassavioli/assets/26097753/c798a3fb-85b9-4f63-ab22-334278782a48)
 
+# About Me
+I'm a dedicated engineer, committed to delivering the highest level of contribution to projects and teams, having strong analytical and problem-solving skills, 
+technical and social skills combined with the ability to adapt to different technologies and scenarios, and a continuous desire to stay current with the latest
+technologies to deliver scalable, durable, and high-quality software.
+
+# Location
+Nova Friburgo, Rio de Janeiro, Brazil
+
+# Education
+BS in Computer Engineering - [Rio de Janeiro State University](https://www.uerj.br/)  
+
+### Relevant Classes
+Artificial Intelligence, Numerical Optimization Methods, Algorithm Design and Analysis, Discrete Mathematics, Programming Language Concepts, 
+Software Engineering, Image Processing, Linear Programming
+
+# Languages
+🇺🇸 **English:** Professional working proficiency.
+
+🇧🇷 **Portuguese:** Native.
+
+# Main Technical Skills
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,6 +57,15 @@
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-green?style=for-the-badge&logo=linux&logoColor=white&color=1793D1)](https://www.linux.org/)
 
+
+# Interests
+Cloud Computing, Artificial Intelligence, Data Science, General Software Development, Mobile Development
+
+# Certifications
+AWS Certified Cloud Practitioner (CLF-C01)
+
+# Contacts
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassavioli/) 
 <!--
 Here are some ideas to get you started:
 
@@ -47,5 +77,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📫 How to reach me: ...
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassavioli/) 
