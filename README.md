@@ -1,4 +1,4 @@
-![linkedin-cover-blue-2023](https://github.com/lucassavioli/lucassavioli/assets/26097753/c798a3fb-85b9-4f63-ab22-334278782a48)
+![linkedin-cover-blue-2023](https://github.com/lucassavioli/lucassavioli/assets/26097753/e2139f4a-902f-4caf-ab27-352d08db0381)
 
 # About Me
 I'm a dedicated engineer, committed to delivering the highest level of contribution to projects and teams, having strong analytical and problem-solving skills, 
@@ -11,7 +11,7 @@ Nova Friburgo, Rio de Janeiro, Brazil
 # Education
 BS in Computer Engineering - [Rio de Janeiro State University](https://www.uerj.br/)  
 
-### Relevant Classes
+**Relevant Classes**
 Artificial Intelligence, Numerical Optimization Methods, Algorithm Design and Analysis, Discrete Mathematics, Programming Language Concepts, 
 Software Engineering, Image Processing, Linear Programming
 
