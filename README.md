@@ -55,7 +55,10 @@ Software Engineering, Image Processing, Linear Programming
 Main Stack: NextJS, JavaScript, Node, Express, TailwindCSS, MongoDB
 
 **SAC PRICE Finance Simulator** ([Link](https://github.com/lucassavioli/django-vue-financing)) \
-Main Stack: Python, JavaScript, Django, Django Rest Framework, Vue, Tailwind CSS
+Main Stack: Python, Django, Django Rest Framework, JavaScript, Vue, Tailwind CSS
+
+**Django Login with JWT** ([Link](https://github.com/lucassavioli/djvue-auth-jwt)) \
+Main Stack: Python, Django, Django Rest Framework, JavaScript, Vue, Tailwind CSS, JWT
 
 **E-commerce React Redux** ([Link](https://github.com/lucassavioli/react-ecommerce)) \
 Main Stack: React, JavaScript, Redux, React Router, Tailwind CSS, API
